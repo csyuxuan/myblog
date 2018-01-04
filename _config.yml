@@ -1,11 +1,11 @@
 # Basic
 title: Vno Jekyll
 subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+welcome_message: <a href="https://github.com/csyuxuan/myblog" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://onefishcycle.com">@onefishcycle</a>
 
-url: "https://csyuxuan.github.io/jekyll_demo/"
+url: "http://onefishcycle.com"
 
 permalink: /:year/:month/:title/
 
