@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/csyuxuan/myblog" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: Onefishcycle
+subtitle: 鱼翔浅底的博客
+welcome_message: <a href="https://github.com/csyuxuan/myblog" target="_blank">My GitHub repository.</a>
+description: 每天更新一篇：读书笔记、生活感悟……
 creator: <a href="http://onefishcycle.com">@onefishcycle</a>
 
 url: "http://onefishcycle.com"
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
@@ -21,8 +21,8 @@ blog_button:
     description: Visit blog
 
 # Navigation buttons in the front page.
-nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+# nav:
+    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -31,20 +31,20 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-comment:
-    disqus: vno-jekyll
+# comment:
+    # disqus: vno-jekyll
     # duoshuo: 
     
 # Social
-social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+#social:
+    # weibo: onevcat
+    # github: onevcat
+    # twitter: onevcat
+    # gplus: 107108267983477358170
+    # mail: onev@onevcat.com
 
 # Google Analytics
-ga:
+#ga:
     # id: your_ga_id
     # host: your_host
 
